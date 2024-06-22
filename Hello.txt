@@ -1,0 +1,13 @@
+Hello
+E:\anaconda\envs\pytorch\python.exe E:\anaconda\envs\pytorch\graduation_project\main.py --SegFormer --bm_b0 --epoch=50 --input=E:/anaconda/envs/pytorch/graduation_project/train_data/LSVT/text_localization 
+-----第1轮训练开始-----
+学习率是:6e-05
+训练集集的损失函数是：14.796919822692871
+第1轮训练时间是：1855.417687177658
+预计完成时间为：1d 1h 46m 10s
+-----第2轮训练开始-----
+学习率是:5.995e-05
+训练集集的损失函数是：11.783722877502441
+第2轮训练时间是：1854.5053534507751
+预计完成时间为：1d 1h 14m 53s
+-----第3轮训练开始-----
